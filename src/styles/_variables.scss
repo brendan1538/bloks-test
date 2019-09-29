@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,600&display=swap');
+
+$black: #141414;
+$white: #FFFFF7;
+$orange: #F77B13;
+$green: #2ED526;
+
+$primary-color: $white;
+$secondary-color: $orange;
+$accent-color: $green;
+
+$primary-text-color: $black;
+$inverted-text-color: $white;
+
+$btn-primary-bg-color: $orange;
+$btn-primary-border-color: $orange;
+$btn-primary-text-color: $white;
+
+$btn-secondary-bg-color: transparent;
+$btn-secondary-border-color: $green;
+$btn-secondary-text-color: $green;
+
+$reg-weight: 400;
+$bold-weight: 500;
+
+$heading-font-size: 20px;
+$title-font-size: 18px;
+$body-font-size: 16px;
