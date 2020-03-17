@@ -1,9 +1,0 @@
-{
-    "version": 3,
-    "mappings": "AAAA,AAAA,QAAQ,CAAC;EACL,OAAO,EAAE,EAAE;CASd;;AAVD,AAEI,QAFI,CAEJ,EAAE,CAAC;EACC,UAAU,EAAE,IAAI;CAMnB;;AAGL,AAAA,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;CAKd;;AAND,AAGI,EAHF,AAGG,MAAM,CAAC;EACJ,MAAM,EAAE,OAAO;CAClB",
-    "sources": [
-        "TopNav.scss"
-    ],
-    "names": [],
-    "file": "TopNav.css"
-}

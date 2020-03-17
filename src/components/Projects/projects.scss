@@ -1,0 +1,22 @@
+.projects-page {
+	left: 0;
+	background-color: #c8c8c873;
+	width: 100vw;
+	padding-bottom: 50px;
+
+	h2 {
+		text-align: center;
+		font-size: 38px;
+		letter-spacing: 3px;
+		padding: 40px 0 30px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.projects-page {
+		.project-collection {
+			width: 100vw;
+			left: 0;
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+  "projects": [
+    {
+      "header": "BUMPIT",
+      "content": "Updating your project version can be easy to forget. I built a simple precommit hook using Python to check that for you, and \"bump\" the version automatically if not.",
+      "projectUrl": "https://github.com/brendan1538/bumpit",
+      "imgSrc": "/src/resources/project-thumbnails/bumpit-thumbnail.png",
+      "className": "bumpit"
+    },
+    {
+      "header": "Brand-Access-Tool (BAT)",
+      "content": "Created during a company hackathon event, this tool aimed to simplify context-switching between projects.",
+      "projectUrl": "https://github.com/brendan1538/innojam-bat",
+      "imgSrc": "/src/resources/project-thumbnails/snakejs-thumbnail.png",
+      "className": "bat"
+    },
+    {
+      "header": "SnakeJS",
+      "content": "I mean... Who doesn't want to play Snake?",
+      "projectUrl": "https://github.com/brendan1538/SnakeJS",
+      "imgSrc": "/src/resources/project-thumbnails/snakejs-thumbnail.png",
+      "className": "snake"
+    }
+  ]
+}
