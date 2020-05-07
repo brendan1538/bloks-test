@@ -13,14 +13,3 @@ jobs:
         - /
     run-commands:
       - npx webpack
-      - echo "hello world"
-  test:
-    run_test: false
-  deploy:
-    use: s3
-    s3:
-      bucket: s3_bucket
-      access_key: insert_access_key 
-      secret_key: insert_secret_key
-    build_output_folder: dist
-
